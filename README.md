@@ -3,33 +3,36 @@
 
 
 # [Project Name] 🎯
-
+TOSS THE UNSURE
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [UNSURE]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [Asna Jasmin M A] - [College of Engineering Vadakara]
+- Member 2: [Sangeerth Karayi] - [College of Engineering Vadakara]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[**TOSS THE UNSURE** is a playful digital coin-flipping experience that turns simple decisions into suspenseful fun—asking unnecessary questions, building anticipation, and delivering the answer that matters most.
+]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Making decisions is exhausting. Normal coin flips give clear answers like Heads or Tails, but what if you want to remain confused?]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We made a coin-flipping experience that asks unnecessary questions, creates suspense, and finally gives you the most useful answer possible: **UNSURE**.
+
+## Technical Details]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [ HTML, CSS, JavaScript]
+- [None]
+- [None]
+- [VS Code, GitHub,Antigravity]
 
 For Hardware:
 - [List main components]
@@ -39,10 +42,12 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+[```bash
+git clone <your-repository-link>
+cd toss-the-unsure]
 
 # Run
-[commands]
+[Click The link]
 
 ### Project Documentation
 For Software:
